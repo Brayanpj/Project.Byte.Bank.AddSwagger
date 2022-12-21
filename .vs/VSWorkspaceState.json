@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Project.Byte.Bank",
+    "\\Project.Byte.Bank\\AutoMapper",
+    "\\Project.Byte.Bank\\Controllers",
+    "\\Project.Byte.Bank\\Infra",
+    "\\Project.Byte.Bank\\Infra\\Context",
+    "\\Project.Byte.Bank\\Interface",
+    "\\Project.Byte.Bank\\Interface\\Lista",
+    "\\Project.Byte.Bank\\Migrations"
+  ],
+  "SelectedNode": "\\Project.Byte.Bank..sln",
+  "PreviewInSolutionExplorer": false
+}
